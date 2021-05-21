@@ -1,0 +1,914 @@
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe.config
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.pdb
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csprojAssemblyReference.cache
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Properties.Resources.resources
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.GenerateResource.cache
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.pdb
+C:\Users\Dogus soft\Desktop\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Form1.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe.config
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Form1.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Properties.Resources.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.GenerateResource.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGiris.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CopyComplete
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formHizliButtonUrunEkle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formNakitKart.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGrubuEkleSil.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formStok.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRapor.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formGelirGider.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporDetayGoster.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\RdlCompile.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\RdlCompile.compiled
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporListeleme.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formBaslangic.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe.licenses
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\rpGenelRapor.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\reportStokUrun.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\rpStokIzleme.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formFiyatGuncelle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formAyarlar.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase.mdf
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase_log.ldf
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formLogin.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase.mdf
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase_log.ldf
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\reportStokUrun.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\rpGenelRapor.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\rpStokIzleme.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe.config
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csprojAssemblyReference.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Form1.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formAyarlar.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formBaslangic.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formFiyatGuncelle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formGelirGider.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formHizliButtonUrunEkle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formLogin.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formNakitKart.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRapor.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporDetayGoster.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporListeleme.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formStok.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGiris.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGrubuEkleSil.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Properties.Resources.resources
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.GenerateResource.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe.licenses
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\RdlCompile.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\RdlCompile.compiled
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CopyComplete
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\son market\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase.mdf
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase_log.ldf
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\reportStokUrun.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\rpGenelRapor.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\rpStokIzleme.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe.config
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csprojAssemblyReference.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Form1.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formAyarlar.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formBaslangic.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formFiyatGuncelle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formGelirGider.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formHizliButtonUrunEkle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formLogin.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formNakitKart.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRapor.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporDetayGoster.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporListeleme.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formStok.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGiris.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGrubuEkleSil.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Properties.Resources.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.GenerateResource.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe.licenses
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\RdlCompile.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\RdlCompile.compiled
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CopyComplete
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Proje-Ufuk DEĞER\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase.mdf
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\marketBarkodSistemiDatabase_log.ldf
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\reportStokUrun.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\rpGenelRapor.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\rpStokIzleme.rdlc
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe.config
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.CodeCompletion.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csprojAssemblyReference.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Form1.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formAyarlar.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formBaslangic.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formFiyatGuncelle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formGelirGider.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formHizliButtonUrunEkle.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formLogin.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formNakitKart.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRapor.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporDetayGoster.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formRaporListeleme.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formStok.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGiris.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formUrunGrubuEkleSil.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.Properties.Resources.resources
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.GenerateResource.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe.licenses
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\RdlCompile.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\RdlCompile.compiled
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.csproj.CopyComplete
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.exe
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market Barkod Sistemi.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\Market Barkod Sistemi-2\Market Barkod Sistemi\obj\Debug\Market_Barkod_Sistemi.formIskontoTutar.resources
